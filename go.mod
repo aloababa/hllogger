@@ -1,3 +1,3 @@
-module github.com/hekmon/hllogger/v2
+module github.com/aloababa/logger
 
 go 1.13
